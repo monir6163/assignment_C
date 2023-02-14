@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1676313345 source:d:\vercity\min\main.c
+	<stdio.h>
+	<stdlib.h>
+
